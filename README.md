@@ -39,10 +39,10 @@ def my_solution(S):
 ## Examples
 ```python
 # test cases
-print (my_solution("32581"))
-print (my_solution("2353"))
-print (my_solution("43422"))
-print (my_solution("226226"))
+print (my_solution("32581"))   #output "559"
+print (my_solution("2353"))    #output "58"
+print (my_solution("43422"))   #output "78"
+print (my_solution("226226"))  #output "488"
 ```
 
 ## Complexity Analysis
