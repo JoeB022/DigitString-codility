@@ -15,7 +15,7 @@ def my_solution(S):
         else:
             i += 1
     return ''.join(s)
-# te
+# test cases
 print (my_solution("32581"))
 print (my_solution("2353"))
 print (my_solution("43422"))
