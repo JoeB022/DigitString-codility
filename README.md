@@ -59,5 +59,4 @@ print (my_solution("226226"))
 This project is open-source and free to use.
 
 ---
-Would you like additional explanations or optimizations? 🚀
 
